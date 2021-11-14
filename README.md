@@ -1,4 +1,6 @@
 # press_page
+This project was made like a small challenge to demonstrate ability to folow the given requirements and make a maintainable, extendable and self documented app with proposed technology stack
+
 
 ## Project setup
 ```
@@ -24,11 +26,12 @@ npm run test:unit
 ```
 npm run test:e2e
 ```
+## Technologies
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Vue.js v3](https://vuejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Vuex](https://next.vuex.vuejs.org/)
+- [PrimeVue](https://primefaces.org/primevue/)
+- [Jest](https://jestjs.io/)
+- [Cypress](https://www.cypress.io/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
